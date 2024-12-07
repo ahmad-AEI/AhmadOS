@@ -1,0 +1,35 @@
+body{
+    background-color: black;   
+    font-family: modam black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+.header{
+    background-color: aqua;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 705px;
+    height: 60px;
+    margin-top: 50px;
+    border-radius: 30px;
+    transition: 0.7s;
+}
+.sppan{
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    color: cyan;
+}
+p{
+    text-align: center;
+}

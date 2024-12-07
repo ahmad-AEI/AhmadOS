@@ -1,0 +1,95 @@
+body{
+    background-color: black;   
+    font-family: modam;
+
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.header{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid cyan;
+    width: 600px;
+    height: 60px;
+    margin-top: 50px;
+    border-radius: 30px;
+    transition: 0.7s;
+}
+
+.product{
+    margin-top: 20px;
+    border-radius: 40px;
+    border: 1px solid cyan;
+    transition: 0.7s;
+
+}
+
+.buy{
+    margin-top: 20px;
+    border-radius: 40px;
+    border: 1px solid cyan;
+    transition: 0.7s;
+
+}
+pre{
+    font-family: modam;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.button{
+    margin-right: 40%;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 30px;
+    font-family: modam;
+    margin: auto;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    border: 2px solid;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.er :hover{
+    background-color: aqua;
+    color: black;
+    border: 0px;
+}
+
+
+.er{
+    margin-top: 60px;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+.rt{
+    border-radius: 20px;
+}
+.rt :hover{
+    width: 280px;
+}
+.lt{
+    border-radius: 20px;
+}
+.lt :hover{
+    width: 280px;
+}
